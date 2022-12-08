@@ -1,1 +1,15 @@
-{}
+{
+  "custom-field": "测试一下啦",
+  "custom-object": {
+    "custom-line": "哈哈",
+    "custom-text": "asdfas\naffs asdfasf"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "asvcv打发沙发"
+    },
+    {
+      "custom-list-item": "asdfa"
+    }
+  ]
+}
